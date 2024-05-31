@@ -17,7 +17,7 @@ pushplus_data = {
     "token": pushplus_token,
     "title": "每天60秒读懂世界",
     "content": "{}<br/><img src='{}' />".format(content,image_url),
-    # "topic": "温寒GPT3.5",
+    "topic": "温寒GPT3.5",
     "template": "html"
 }
 
