@@ -14,7 +14,7 @@ content = text_response.text
 pushplus_url = "https://www.pushplus.plus//send"
 
 pushplus_data = {
-    "token": pushplus_token,
+    "token": 8999e06cf58d4db082a9ac941e776b3a,
     "title": "每天60秒读懂世界",
     "content": "{}<br/><img src='{}' />".format(content,image_url),
     "topic": "温寒GPT3.5",
